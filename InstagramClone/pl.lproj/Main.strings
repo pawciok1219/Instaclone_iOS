@@ -1,0 +1,81 @@
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "125-Et-ux1"; */
+"125-Et-ux1.placeholder" = "hasło";
+
+/* Class = "UITabBarItem"; title = "Feed"; ObjectID = "C8q-p8-g3O"; */
+"C8q-p8-g3O.title" = "Aktualności";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "CeK-Ad-fU9"; */
+"CeK-Ad-fU9.title" = "Ustawienia";
+
+/* Class = "UIButton"; configuration.title = "Sign Up"; ObjectID = "Df4-90-0Wl"; */
+"Df4-90-0Wl.configuration.title" = "Zarejestruj sie";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Df4-90-0Wl"; */
+"Df4-90-0Wl.normalTitle" = "Przycisk";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Ek9-dB-ebc"; */
+"Ek9-dB-ebc.text" = "0";
+
+/* Class = "UILabel"; text = "Instagram"; ObjectID = "GLG-b7-rTW"; */
+"GLG-b7-rTW.text" = "Instagram";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "I7u-1w-lYa"; */
+"I7u-1w-lYa.text" = "id";
+
+/* Class = "UILabel"; text = "useremail"; ObjectID = "Nga-5m-T7Y"; */
+"Nga-5m-T7Y.text" = "useremail";
+
+/* Class = "UIButton"; configuration.title = "Upload"; ObjectID = "QdB-aP-RDQ"; */
+"QdB-aP-RDQ.configuration.title" = "Prześlij zdjęcie";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "QdB-aP-RDQ"; */
+"QdB-aP-RDQ.normalTitle" = "Przycisk";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "T4w-kx-OsN"; */
+"T4w-kx-OsN.normalTitle" = "Przycisk";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "UB8-zx-SAl"; */
+"UB8-zx-SAl.placeholder" = "email";
+
+/* Class = "UIButton"; configuration.title = "Sign In"; ObjectID = "ZSw-vz-jDP"; */
+"ZSw-vz-jDP.configuration.title" = "Zaloguj";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZSw-vz-jDP"; */
+"ZSw-vz-jDP.normalTitle" = "Przycisk";
+
+/* Class = "UIButton"; configuration.title = "Logout"; ObjectID = "lPk-Oa-eyf"; */
+"lPk-Oa-eyf.configuration.title" = "Tak, wyloguj";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lPk-Oa-eyf"; */
+"lPk-Oa-eyf.normalTitle" = "Przycisk";
+
+/* Class = "UITextField"; placeholder = "Comment"; ObjectID = "pdQ-UL-3XO"; */
+"pdQ-UL-3XO.placeholder" = "Komentarz";
+
+/* Class = "UITabBarItem"; title = "Upload"; ObjectID = "v7Y-0K-SCf"; */
+"v7Y-0K-SCf.title" = "Prześlij";
+
+/* Class = "UILabel"; text = "Comment"; ObjectID = "y7i-dE-uy7"; */
+"y7i-dE-uy7.text" = "Komentarz";
+
+// Take a picture button
+"qhP-be-ZSp.configuration.title" = "Zrób zdjęcie";
+
+// Password label
+"0kA-w5-KZF.text" = "Hasło";
+
+// Dont have account label
+"b59-hr-h6l.text" = "Nie masz jeszcze konta?";
+
+// settings label
+"57A-fu-8Mu.text" = "Czy kończysz robić zdjęcia na dziś?";
+
+// description label
+"4qr-Dw-4Wf.text" = "Opis zdjęcia";
+
+// Upload your photo label
+"qrP-P4-CvQ.text" = "Prześlij swoje zdjęcie.";
+
+// touch here
+"CD5-b0-cgg.text" = "Dotknij tutaj, aby wybrać swoje zdjęcie.";
